@@ -1,7 +1,7 @@
 import React from "react";
 
 function About() {
-  return <span>About this page: I built it because I love movies.</span>;
+  return <div className="about__container">About Page!</div>;
 }
 
 export default About;
